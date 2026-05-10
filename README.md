@@ -41,4 +41,5 @@ Results
 | Recall | 65.4% |
 | Inference Time | 0.08s per image |
 
+**Because the high-resolution raw and processed datasets exceed GitHub's upload limits, they are hosted on Google Drive for external access
 
